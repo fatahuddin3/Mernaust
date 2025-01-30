@@ -1,0 +1,63 @@
+.contain {
+        max-width: 400px;
+    margin: 50px auto;
+
+      padding: 20px;
+    border: 1px solid #ccc;
+
+        border-radius: 10px;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+             font-family: Arial, sans-serif;
+    text-align: center; 
+}
+
+.login-image {
+    width: 100px; 
+        height: auto;
+    margin-bottom: 15px;
+}
+
+.inputgroup {
+              margin-bottom: 15px;
+    text-align: left;
+}
+
+.lab {
+    display: block;
+       margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+  .button {
+    width: 100%;
+        padding: 10px;
+    background-color: #007BFF;
+
+    color: #fff;
+    border: none;
+
+        border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .button:hover {
+        background-color: #0056b3;
+    }
+
+  .regist {
+    text-align: center;
+
+    margin-top: 15px;
+}
