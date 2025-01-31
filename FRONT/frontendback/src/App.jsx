@@ -3,7 +3,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Login from './components/Login';
-
+import Register from './components/Register';
 
 function App() {
     return (
@@ -18,7 +18,8 @@ function App() {
                 
 
 
-                    <Route path="/" element={<Login />} />
+                    <Route path="/log" element={<Login />} />
+                    <Route path="/" element={<Register />} />
                 </Routes>
             </div>
         </Router>
