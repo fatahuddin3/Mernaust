@@ -22,7 +22,7 @@ function App() {
                         <Route path="/" element={<Landing />} />
                       <Route path="/reg" element={<Register />} />
                            <Route path="/log" element={<Login />} />
-                        <Route path="*" element={<Navigate to="/" replace />} />
+                       
                     </Routes>
                     </main>
 
