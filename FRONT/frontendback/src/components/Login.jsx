@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
      import './Login.css';
-import logo from '../rent.png'; 
+
 const Login = () => {
     const [email, setEmail] = useState('');
          const [pass, setPass] = useState('');
@@ -28,7 +28,7 @@ const Login = () => {
         if (!validform()) return;
 
         try {
-            navigate('/s');
+            navigate('/reg');
 
         } catch (error) {
             alert(`Login error: ${error.message}`);
@@ -37,7 +37,7 @@ const Login = () => {
 
     return (
         <div className="contain">
-                 <img src={logo} alt="Login Logo" className="login-image" /> 
+                
             <form onSubmit={handsubmit}>
 
                      <div className="inputgroup">
@@ -71,7 +71,7 @@ const Login = () => {
                 <p>
 
                     Not registered yet?{' '}
-                        <button onClick={() => navigate('/register')} className="button">
+                        <button onClick={() => navigate('/reg')} className="button">
                         Register
 
                             </button>
