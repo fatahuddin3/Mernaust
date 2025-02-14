@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -29,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,48 +46,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.jsx",
+              "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Register.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-31T08:29:50.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.css",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.css",
               "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.css",
               "RelativeToolTip": "frontendback\\src\\components\\Login.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-29T07:03:04.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T07:03:04.839Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.jsx",
-              "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.jsx",
-              "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\Login.jsx",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T06:25:58.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
-              "RelativeToolTip": "frontendback\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-26T11:27:10.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\App.css",
               "RelativeDocumentMoniker": "frontendback\\src\\App.css",
@@ -115,15 +110,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
               "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeToolTip": "frontendback\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-22T09:13:25.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.jsx",
+              "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T06:25:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.css",
+              "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.css",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.css",
+              "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.css",
+              "RelativeToolTip": "frontendback\\src\\components\\Register.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-31T08:30:21.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
+              "RelativeToolTip": "frontendback\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-26T11:27:10.477Z"
             }
           ]
         }
