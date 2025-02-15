@@ -1,22 +1,22 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-     import './Login.css';
-import logo from '../rent.png'; 
+import { loginuser } from '../services/Service';
+
 const Login = () => {
     const [email, setEmail] = useState('');
-         const [pass, setPass] = useState('');
+    const [password, setPass] = useState('');
     const navigate = useNavigate();
 
     const validform = () => {
 
-        if (!email || !pass) {
-                alert('Please fill up every box.');
+        if (!email || !password) {
+            alert('Please fill up every box.');
 
             return false;
         }
-             const emailReg = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        const emailReg = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
         if (!emailReg.test(email)) {
-               alert('Invalid email format.');
+            alert('Invalid email format.');
             return false;
 
         }
@@ -24,57 +24,62 @@ const Login = () => {
     };
 
     const handsubmit = async (e) => {
-           e.preventDefault();
+        e.preventDefault();
         if (!validform()) return;
 
-        try {
-            navigate('/s');
+        const formData = { email, password };
 
+        try {
+            const response = await loginuser(formData);
+            if (response) {
+                navigate('/reg');
+            } else {
+                alert('Login failed. Please try again.');
+            }
         } catch (error) {
-            alert(`Login error: ${error.message}`);
+            alert(`Login error: ${error.response?.data?.message || error.message}`);
         }
     };
-
     return (
         <div className="contain">
-                 <img src={logo} alt="Login Logo" className="login-image" /> 
+
             <form onSubmit={handsubmit}>
 
-                     <div className="inputgroup">
+                <div className="inputgroup">
 
                     <label className="lab">Email:</label>
                     <input
 
                         type="email"
                         value={email}
-                               onChange={(e) => setEmail(e.target.value)}
+                        onChange={(e) => setEmail(e.target.value)}
                         className="input"
                     />
 
 
                 </div>
                 <div className="inputgroup">
-                         <label className="lab">Password:</label>
+                    <label className="lab">Password:</label>
                     <input
 
                         type="password"
-                            value={pass}
+                        value={password}
 
                         onChange={(e) => setPass(e.target.value)}
 
                         className="input"
                     />
-                      </div>
+                </div>
                 <button type="submit" className="button">Login</button>
-                    </form>
+            </form>
             <div className="regist">
                 <p>
 
                     Not registered yet?{' '}
-                        <button onClick={() => navigate('/register')} className="button">
+                    <button onClick={() => navigate('/reg')} className="button">
                         Register
 
-                            </button>
+                    </button>
                 </p>
             </div>
         </div>
@@ -82,4 +87,3 @@ const Login = () => {
 };
 
 export default Login;
-
