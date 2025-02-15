@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+<<<<<<< HEAD
 import { loginuser } from '../services/Service';
+=======
+     import './Login.css';
+>>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
 
 const Login = () => {
     const [email, setEmail] = useState('');
@@ -27,7 +31,12 @@ const Login = () => {
         e.preventDefault();
         if (!validform()) return;
 
+<<<<<<< HEAD
         const formData = { email, password };
+=======
+        try {
+            navigate('/reg');
+>>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
 
         try {
             const response = await loginuser(formData);
@@ -42,7 +51,11 @@ const Login = () => {
     };
     return (
         <div className="contain">
+<<<<<<< HEAD
 
+=======
+                
+>>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
             <form onSubmit={handsubmit}>
 
                 <div className="inputgroup">
@@ -76,7 +89,11 @@ const Login = () => {
                 <p>
 
                     Not registered yet?{' '}
+<<<<<<< HEAD
                     <button onClick={() => navigate('/reg')} className="button">
+=======
+                        <button onClick={() => navigate('/reg')} className="button">
+>>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
                         Register
 
                     </button>

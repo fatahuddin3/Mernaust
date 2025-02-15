@@ -33,7 +33,7 @@
     <Content Include="config.env" />
     <Content Include="data.js" />
     <Content Include="data.json" />
-    <Content Include="DatabaseConnection.js" />
+    <Content Include="middlewares\logger.js" />
     <Content Include="models\carModel.js" />
     <Content Include="models\bookingModel.js" />
     <Content Include="models\userModel.js" />
@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="models\" />
+    <Folder Include="middlewares\" />
     <Folder Include="routes\" />
     <Folder Include="views\" />
   </ItemGroup>
