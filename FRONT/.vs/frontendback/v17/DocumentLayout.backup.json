@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -31,8 +32,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
 =======
+=======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
 >>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
     },
@@ -57,6 +59,7 @@
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
 =======
@@ -104,11 +107,9 @@
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
->>>>>>> 39117eb (test)
 =======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\ayonn\\onedrive\\documents\\mern\\mernaust\\front\\frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
@@ -127,6 +128,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
 <<<<<<< HEAD
           "SelectedChildIndex": 7,
           "Children": [
@@ -162,30 +164,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
 =======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
->>>>>>> 39117eb (test)
 =======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
               "Title": "Register.jsx",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.jsx",
               "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
               "RelativeToolTip": "frontendback\\src\\components\\Register.jsx",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAAcAAAA",
-=======
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAAJIAAAAGAAAAAAAAAA==",
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAI4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-31T08:29:50.265Z",
 >>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
@@ -256,6 +247,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
 =======
               "ViewState": "AgIAAJAAAAAAAAAAAAAAAJIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
@@ -283,6 +275,8 @@
               "DocumentIndex": 2,
 >>>>>>> 39117eb (test)
 >>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
+=======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\App.css",
               "RelativeDocumentMoniker": "frontendback\\src\\App.css",
@@ -296,6 +290,7 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "DocumentIndex": 6,
 =======
 <<<<<<< HEAD
@@ -307,6 +302,9 @@
               "DocumentIndex": 7,
 >>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
 >>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
+=======
+              "DocumentIndex": 7,
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
               "Title": "Home.css",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Home.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Home.css",
@@ -314,6 +312,7 @@
               "RelativeToolTip": "frontendback\\src\\components\\Home.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "WhenOpened": "2025-01-26T11:21:31.696Z",
               "EditorCaption": ""
@@ -338,12 +337,15 @@
               "$type": "Document",
               "DocumentIndex": 6,
 =======
+=======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
               "WhenOpened": "2025-02-14T15:59:07.812Z"
 >>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "Login.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.css",
@@ -361,6 +363,8 @@
 =======
 >>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
 >>>>>>> 666167b6330e9bfa2ee3af8f89961c98d8b3b4f7
+=======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Home.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Home.jsx",
@@ -368,6 +372,7 @@
               "RelativeToolTip": "frontendback\\src\\components\\Home.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "WhenOpened": "2025-01-26T11:21:19.141Z"
 <<<<<<< HEAD
@@ -378,55 +383,30 @@
               "DocumentIndex": 7,
 >>>>>>> 39117eb (test)
 =======
+=======
+>>>>>>> 02cb0ae848fa43812a10fd1ef011817d68165785
               "WhenOpened": "2025-02-14T15:59:07.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
               "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeToolTip": "frontendback\\src\\App.jsx",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAXAAAA",
-=======
-              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBIAAAAAAAAAAAAAAA==",
->>>>>>> 39117eb (test)
-=======
               "ViewState": "AgIAACcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-22T09:13:25.529Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
               "DocumentIndex": 2,
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
               "Title": "Login.jsx",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.jsx",
               "ToolTip": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
               "RelativeToolTip": "frontendback\\src\\components\\Login.jsx",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAQAAAA",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
->>>>>>> 39117eb (test)
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T06:25:58.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-27T06:25:58.693Z"
@@ -434,7 +414,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
               "Title": "Register.css",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.css",
@@ -446,11 +425,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 8,
-=======
               "DocumentIndex": 6,
->>>>>>> 2b1bea7f843eee47adf7407c7dc6042963c8a544
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\ayonn\\OneDrive\\Documents\\MERN\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\main.jsx",
