@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\Server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\carsRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\carsRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\carModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\carModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\usersRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\usersRoute.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\userModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\userModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\bookingModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\models\\bookingModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\middlewares\\logger.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\middlewares\\logger.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5AE4B711-D1A1-40E9-B871-685C703C264E}|back\\back.njsproj|solutionrelative:back\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +50,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bookingModel.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\BookingModel.js",
+              "RelativeDocumentMoniker": "back\\models\\BookingModel.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\BookingModel.js",
+              "RelativeToolTip": "back\\models\\BookingModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-14T08:55:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "carsRoute.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\carsRoute.js",
+              "RelativeDocumentMoniker": "back\\routes\\carsRoute.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\carsRoute.js",
+              "RelativeToolTip": "back\\routes\\carsRoute.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T10:10:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "carModel.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\CarModel.js",
+              "RelativeDocumentMoniker": "back\\models\\CarModel.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\CarModel.js",
+              "RelativeToolTip": "back\\models\\CarModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T10:08:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userModel.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\userModel.js",
+              "RelativeDocumentMoniker": "back\\models\\userModel.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\models\\userModel.js",
+              "RelativeToolTip": "back\\models\\userModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T09:51:10.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "usersRoute.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\usersRoute.js",
+              "RelativeDocumentMoniker": "back\\routes\\usersRoute.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\usersRoute.js",
+              "RelativeToolTip": "back\\routes\\usersRoute.js",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-08T09:45:59.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\README.md",
               "RelativeDocumentMoniker": "back\\README.md",
@@ -42,12 +127,11 @@
               "RelativeToolTip": "back\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-08T08:51:18.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T08:51:18.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "config.env",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\config.env",
               "RelativeDocumentMoniker": "back\\config.env",
@@ -55,12 +139,11 @@
               "RelativeToolTip": "back\\config.env",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-08T08:34:56.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T08:34:56.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "logger.js",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\middlewares\\logger.js",
               "RelativeDocumentMoniker": "back\\middlewares\\logger.js",
@@ -68,8 +151,7 @@
               "RelativeToolTip": "back\\middlewares\\logger.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-08T08:22:38.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T08:22:38.085Z"
             },
             {
               "$type": "Document",
@@ -79,14 +161,14 @@
               "RelativeDocumentMoniker": "back\\Server.js",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\Server.js",
               "RelativeToolTip": "back\\Server.js",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAANAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-08T08:18:36.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "auth.js",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\auth.js",
               "RelativeDocumentMoniker": "back\\routes\\auth.js",

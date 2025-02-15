@@ -7,6 +7,8 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const path = require('path');
 
+const users = require('./routes/usersRoute');
+
 require('dotenv').config({path:'./config.env' });
 
 const app = express();
@@ -28,16 +30,9 @@ app.use(cors({
      credentials:true
 }));
 
-
-
-
-
-
 const PORT=process.env.PORT||4000;
 
-
       app.use(express.json());
-
 app.use(log);
 
 
@@ -45,7 +40,7 @@ app.use(log);
        res.status(200).json({message:'fatah' });
 });
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
-
+app.use('/userrr', users);
 
 
 
