@@ -8,7 +8,7 @@ const cors = require('cors');
 const path = require('path');
 
 const users = require('./routes/usersRoute');
-
+const carroutes = require('./routes/carsRoute');
 require('dotenv').config({path:'./config.env' });
 
 const app = express();
@@ -41,7 +41,7 @@ app.use(log);
 });
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use('/userrr', users);
-
+app.use('/cars', carroutes);
 
 
 
