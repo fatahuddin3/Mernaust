@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\context\\authcontext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\context\\authcontext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\components\\caredit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\caredit.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -17,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|c:\\users\\hp\\documents\\gitprojects\\mernaust\\front\\frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -57,8 +65,38 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "api.jsx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\api.jsx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
+              "RelativeToolTip": "frontendback\\src\\api.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-28T11:55:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "authContext.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\context\\authContext.js",
+              "RelativeDocumentMoniker": "frontendback\\src\\context\\authContext.js",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\context\\authContext.js",
+              "RelativeToolTip": "frontendback\\src\\context\\authContext.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T11:55:00.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Carimage.css",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Carimage.css",
@@ -70,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Car.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Car.jsx",
@@ -82,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Caredit.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Caredit.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Caredit.jsx",
@@ -90,12 +128,11 @@
               "RelativeToolTip": "frontendback\\src\\components\\Caredit.jsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-16T03:35:24.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T03:35:24.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Carimage.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Carimage.jsx",
@@ -107,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Register.css",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.css",
@@ -119,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Register.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.jsx",
@@ -131,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Login.css",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.css",
@@ -143,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\main.jsx",
@@ -155,31 +192,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\App.css",
               "RelativeDocumentMoniker": "frontendback\\src\\App.css",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\App.css",
               "RelativeToolTip": "frontendback\\src\\App.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-26T11:21:50.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeToolTip": "frontendback\\src\\App.jsx",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwAcAAAArAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-22T09:13:25.529Z"
+              "WhenOpened": "2025-01-22T09:13:25.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Login.jsx",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.jsx",

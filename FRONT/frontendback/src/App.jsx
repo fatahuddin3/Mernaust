@@ -1,55 +1,70 @@
 
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Link, Navigate } from 'react-router-dom';
-import Register from './components/Register';
-import Login from './components/Login';
-import Car from './components/Car';
-import Carimages from './components/Carimage';
-import Caredit from './components/Caredit';
-import logo from './rental.png'; 
+import { BrowserRouter as Router, Route, Routes, Link, Navigate } from "react-router-dom";
+import Register from "./components/Register";
+import Login from "./components/Login";
+import Chat from "./components/Chat";
+import { AuthProvider, AuthContext } from "./context/AuthContext";
+import { useContext } from "react";
+import Carimage from "./components/Carimage";
 import './App.css';
+import Caredit from './components/Caredit';
+import Car from './components/Car';
+function ProtectedRoute({ children }) {
+    const { user } = useContext(AuthContext);
+    return user ? children : <Navigate to="/login" />;
+}
 
 function App() {
     return (
-        <Router>
-               <div className="container">
-                 <header className="head">
+        <AuthProvider>
+            <Router>
+                <div className="container">
+                    <header className="head">
                         <h1>Welcome</h1>
-                   <nav className="navb">
-                        <Link to="/" className="navlink">Landing</Link>
-                           <Link to="/reg" className="navlink">Register</Link>
-                         <Link to="/log" className="navlink">Login</Link>
-                        <Link to="/car" className="navlink">Car</Link>
-                           <Link to="/carima" className="navlink">Car Image</Link>
-                        <Link to="/caredi" className="navlink">Car Edit</Link>
-                    </nav>
-                </header>
+                        <nav className="navb">
+                            <Link to="/reg" className="navlink">Register</Link>
+                            <Link to="/login" className="navlink">Login</Link>
+                            <Link to="/chat" className="navlink">ChatBox</Link>
+                            <Link to="/image" className="navlink">Carimage</Link>
 
-              <main className="maincontent">
-                    <Routes>
-                             <Route path="/" element={<Landing />} />
-                        <Route path="/reg" element={<Register />} />
-                        <Route path="/log" element={<Login />} />
-                          <Route path="/car" element={<Car />} />
-                      <Route path="/carima" element={<Carimages />} />
-                        <Route path="/caredi" element={<Caredit />} />
-                         <Route path="*" element={<Navigate to="/" replace />} />
-                    </Routes>
-                   </main>
-            </div>
-           </Router>
+                            <Link to="/" className="navlink">Landing</Link>
+
+
+                            <Link to="/car" className="navlink">car</Link>
+
+                            <Link to="/caredi" className="navlink">caredit</Link>
+
+                        </nav>
+                    </header>
+
+                    <main className="maincontent">
+                        <Routes>
+                            <Route path="/reg" element={<Register />} />
+                            <Route path="/login" element={<Login />} />
+                            <Route path="/chat" element={<ProtectedRoute><Chat /></ProtectedRoute>} />
+                            <Route path="/image" element={<Carimage />} />
+
+
+                            <Route path="/" element={<Landing />} />
+
+                            <Route path="/car" element={<Car />} />
+
+                            <Route path="/caredi" element={<Caredit />} />
+                            <Route path="*" element={<Navigate to="/login" replace />} />
+
+                        </Routes>
+                    </main>
+                </div>
+            </Router>
+        </AuthProvider>
     );
 }
 
 function Landing() {
     return (
         <section id="landing" className="landing">
-        
-              <strong><h1>WELCOME TO OUR GARI VARA</h1></strong>
-                 <p>Gari Vara has received its share of challenges and complaints over the years.</p>
-            <img src={logo} alt="Login Logo" className="loginimage" />
+            <h2>Fata</h2>
         </section>
     );
 }
-
 export default App;
