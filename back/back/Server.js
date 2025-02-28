@@ -6,14 +6,28 @@ const log = require('./middlewares/logger');
 const mongoose = require('mongoose');
 const cors = require('cors');
 const path = require('path');
-
+const messageRoutes = require('./routes/messageRoutes');
 const users = require('./routes/usersRoute');
 const carroutes = require('./routes/carsRoute');
 require('dotenv').config({path:'./config.env' });
-
+const bookroutes = require('./routes/bookingRoutes');
 const app = express();
 
+const http = require("http");
+const { Server } = require("socket.io");
 
+const server = http.createServer(app);
+const io = new Server(server, { cors: { origin: "http://localhost:5173"} });
+
+  io.on("connection", (socket) => {
+    socket.on("join", (userId) => {
+        socket.join(userId);
+    });
+
+    socket.on("sendMessage", (message) => {
+        io.to(message.receiver).emit("receiveMessage", message);
+    });
+});
 
 
    mongoose.connect(process.env.MONGO_URI)
@@ -42,13 +56,14 @@ app.use(log);
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use('/userrr', users);
 app.use('/cars', carroutes);
-
-
+app.use('/messages', messageRoutes);
+app.use('/bookings', bookroutes);
 
 
 
   app.listen(PORT, () => {
          console.log(`Server running on port ${PORT}`);
 });
+
 
 

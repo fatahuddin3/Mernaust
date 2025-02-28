@@ -9,8 +9,12 @@ const carSchema = new mongoose.Schema({
     fueltype: { type: String },
 
 
-    rentperhour: { type: Number }
-
+    rentperhour: { type: Number },
+     isBooked: {
+        type: Boolean,
+        default: false
+    },
+   
 
 }, { timestamps: true }
 
