@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Mern\\Mernaust\\FRONT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -66,11 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Chat.jsx",
+              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Chat.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Chat.jsx",
+              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Chat.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Chat.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-01T06:11:11.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "api.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\api.jsx",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Car.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Car.jsx",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Caredit.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Caredit.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Caredit.jsx",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Carimage.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Carimage.jsx",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Register.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.css",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Register.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.jsx",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.css",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.jsx",
@@ -163,12 +180,11 @@
               "RelativeToolTip": "frontendback\\src\\components\\Login.jsx",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T06:25:58.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T06:25:58.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "authContext.js",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\context\\authContext.js",
               "RelativeDocumentMoniker": "frontendback\\src\\context\\authContext.js",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Car.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Car.css",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Carimage.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Carimage.css",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "main.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\main.jsx",
@@ -228,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "App.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\App.css",
               "RelativeDocumentMoniker": "frontendback\\src\\App.css",
