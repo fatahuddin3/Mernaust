@@ -9,6 +9,8 @@ import Carimage from "./components/Carimage";
 import './App.css';
 import Caredit from './components/Caredit';
 import Car from './components/Car';
+import rental from "./rental.png";
+
 function ProtectedRoute({ children }) {
     const { user } = useContext(AuthContext);
     return user ? children : <Navigate to="/login" />;
@@ -22,13 +24,13 @@ function App() {
                     <header className="head">
                         <h1>Welcome</h1>
                         <nav className="navb">
+                          
+
+                            <Link to="/" className="navlink">Landing</Link>
                             <Link to="/reg" className="navlink">Register</Link>
                             <Link to="/login" className="navlink">Login</Link>
                             <Link to="/chat" className="navlink">ChatBox</Link>
                             <Link to="/image" className="navlink">Carimage</Link>
-
-                            <Link to="/" className="navlink">Landing</Link>
-
 
                             <Link to="/car" className="navlink">car</Link>
 
@@ -63,7 +65,9 @@ function App() {
 function Landing() {
     return (
         <section id="landing" className="landing">
-            <h2>Fata</h2>
+            <h2>Welcome to our GariVara </h2>
+            <img src={rental} alt="Rental Car" className="landing-image" />
+
         </section>
     );
 }

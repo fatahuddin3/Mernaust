@@ -28,7 +28,7 @@ const Login = () => {
 
         try {
             await login(email, password);
-            navigate("/image");
+            navigate("/chat");
         } catch (error) {
             console.error("Login Failed:", error);
             alert("Invalid email or password");

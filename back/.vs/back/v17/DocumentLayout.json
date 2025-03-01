@@ -86,8 +86,7 @@
               "RelativeToolTip": "back\\routes\\bookingRoutes.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-27T12:48:26.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T12:48:26.832Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "back\\middlewares\\authMiddleware.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-26T13:38:21.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:38:21.439Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "back\\models\\Message.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-26T13:36:08.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:36:08.388Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "back\\routes\\messageRoutes.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-26T13:35:47.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T13:35:47.215Z"
             },
             {
               "$type": "Document",
@@ -148,7 +144,7 @@
               "RelativeDocumentMoniker": "back\\routes\\usersRoute.js",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitProjects\\Mernaust\\back\\back\\routes\\usersRoute.js",
               "RelativeToolTip": "back\\routes\\usersRoute.js",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-08T09:45:59.921Z",
               "EditorCaption": ""
@@ -163,8 +159,7 @@
               "RelativeToolTip": "back\\Server.js",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-08T08:18:36.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T08:18:36.775Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "back\\models\\BookingModel.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-14T08:55:44.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T08:55:44.876Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "back\\routes\\carsRoute.js",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAALUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-08T10:10:05.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T10:10:05.05Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "back\\models\\CarModel.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-08T10:08:14.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T10:08:14.657Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "back\\models\\userModel.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-08T09:51:10.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T09:51:10.265Z"
             },
             {
               "$type": "Document",

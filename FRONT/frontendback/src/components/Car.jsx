@@ -36,7 +36,7 @@ const Carregister = () => {
         try {
             const response = await registercar(formData);
             if (response) {
-                navigate('/login');
+                navigate('/image');
             } else {
                 alert('Registration failed. Please try again.');
             }
