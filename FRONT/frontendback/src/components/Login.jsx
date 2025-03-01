@@ -14,7 +14,7 @@ const Login = () => {
             return false;
         }
         const emailReg = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (!emailReg.test(email)) {
+        if (!emailReg.test(email)) { /*neha*/
             alert('Invalid email format.');
             return false;
         }
