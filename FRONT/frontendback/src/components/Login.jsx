@@ -1,47 +1,43 @@
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { loginuser } from '../services/Service';
-import './Login.css';
+
+import React, { useState, useContext } from "react";
+import { useNavigate } from "react-router-dom";
+import { AuthContext } from "../context/AuthContext";
 
 const Login = () => {
-    const [email, setEmail] = useState('');
-    const [password, setPass] = useState('');
+    const [email, setEmail] = useState("");
+    const [password, setPass] = useState("");
     const navigate = useNavigate();
+    const { login } = useContext(AuthContext);
 
     const validform = () => {
         if (!email || !password) {
-            alert('Please fill up every box.');
+            alert("Please fill up every box.");
             return false;
         }
         const emailReg = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (!emailReg.test(email)) { /*neha*/
-            alert('Invalid email format.');
+        if (!emailReg.test(email)) {
+            alert("Invalid email format.");
             return false;
         }
         return true;
     };
 
-    const handsubmit = async (e) => {
+    const handleLogin = async (e) => {
         e.preventDefault();
         if (!validform()) return;
 
-        const formData = { email, password };
-
         try {
-            const response = await loginuser(formData);
-            if (response) {
-                navigate('/reg');
-            } else {
-                alert('Login failed. Please try again.');
-            }
+            await login(email, password);
+            navigate("/image");
         } catch (error) {
-            alert(`Login error: ${error.response?.data?.message || error.message}`);
+            console.error("Login Failed:", error);
+            alert("Invalid email or password");
         }
     };
 
     return (
         <div className="contain">
-            <form onSubmit={handsubmit}>
+            <form onSubmit={handleLogin}>
                 <div className="inputgroup">
                     <label className="lab">Email:</label>
                     <input
@@ -64,8 +60,8 @@ const Login = () => {
             </form>
             <div className="regist">
                 <p>
-                    Not registered yet?{' '}
-                    <button onClick={() => navigate('/reg')} className="button">
+                    Not registered yet?{" "}
+                    <button onClick={() => navigate("/reg")} className="button">
                         Register
                     </button>
                 </p>

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Mern\\Mernaust\\FRONT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\message.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\message.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -19,16 +23,24 @@
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\carimage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\carimage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\carimage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\carimage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\car.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\car.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\car.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\carimage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\carimage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\context\\authcontext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -51,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\carimage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\carimage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|d:\\mern\\mernaust\\front\\frontendback\\src\\components\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F14C4AF9-DC64-43F7-87BA-208DDBBAD884}|frontendback\\frontendback.esproj|solutionrelative:frontendback\\src\\components\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -75,6 +83,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Message.jsx",
+              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Message.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Message.jsx",
+              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Message.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Message.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-01T06:19:17.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.css",
+              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Chat.css",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Chat.css",
+              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Chat.css",
+              "RelativeToolTip": "frontendback\\src\\components\\Chat.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-01T06:13:36.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Chat.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Chat.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Chat.jsx",
@@ -87,32 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "api.jsx",
-              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\api.jsx",
-              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
-              "RelativeToolTip": "frontendback\\src\\api.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-28T11:55:23.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.jsx",
-              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.jsx",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Car.jsx",
-              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.jsx",
-              "RelativeToolTip": "frontendback\\src\\components\\Car.jsx",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-16T03:35:28.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Caredit.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Caredit.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Caredit.jsx",
@@ -132,11 +141,12 @@
               "RelativeToolTip": "frontendback\\src\\components\\Carimage.jsx",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAG8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-16T03:35:17.903Z"
+              "WhenOpened": "2025-02-16T03:35:17.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Register.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.css",
@@ -148,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Register.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Register.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Register.jsx",
@@ -160,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.css",
@@ -168,23 +178,62 @@
               "RelativeToolTip": "frontendback\\src\\components\\Login.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-29T07:03:04.839Z"
+              "WhenOpened": "2025-01-29T07:03:04.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Login.jsx",
               "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Login.jsx",
               "RelativeToolTip": "frontendback\\src\\components\\Login.jsx",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T06:25:58.693Z"
+              "WhenOpened": "2025-01-27T06:25:58.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Car.jsx",
+              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Car.jsx",
+              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.jsx",
+              "RelativeToolTip": "frontendback\\src\\components\\Car.jsx",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-16T03:35:28.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carimage.css",
+              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.css",
+              "RelativeDocumentMoniker": "frontendback\\src\\components\\Carimage.css",
+              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.css",
+              "RelativeToolTip": "frontendback\\src\\components\\Carimage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-16T03:40:21.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "api.jsx",
+              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
+              "RelativeDocumentMoniker": "frontendback\\src\\api.jsx",
+              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\api.jsx",
+              "RelativeToolTip": "frontendback\\src\\api.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-28T11:55:23.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "authContext.js",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\context\\authContext.js",
               "RelativeDocumentMoniker": "frontendback\\src\\context\\authContext.js",
@@ -196,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Car.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Car.css",
               "RelativeDocumentMoniker": "frontendback\\src\\components\\Car.css",
@@ -208,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "App.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\App.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\App.jsx",
@@ -220,19 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Carimage.css",
-              "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.css",
-              "RelativeDocumentMoniker": "frontendback\\src\\components\\Carimage.css",
-              "ToolTip": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\components\\Carimage.css",
-              "RelativeToolTip": "frontendback\\src\\components\\Carimage.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T03:40:21.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "main.jsx",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\main.jsx",
               "RelativeDocumentMoniker": "frontendback\\src\\main.jsx",
@@ -244,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "App.css",
               "DocumentMoniker": "D:\\Mern\\Mernaust\\FRONT\\frontendback\\src\\App.css",
               "RelativeDocumentMoniker": "frontendback\\src\\App.css",
