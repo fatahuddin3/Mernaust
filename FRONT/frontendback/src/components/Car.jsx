@@ -1,19 +1,18 @@
-import React, { useState, useContext } from 'react';
+
+import React, { useState } from 'react';
 import { registercar } from '../services/Service';
 import { useNavigate } from 'react-router-dom';
+import './Car.css'; 
 
 const Carregister = () => {
-    const [name, setname] = useState('');
-    const [fueltype, setfueltype] = useState('');
-    const [capacity, setcapacity] = useState('');
-    const [rentperhour, setrentperhour] = useState('');
-
+    const [name, setName] = useState('');
+    const [fueltype, setFuelType] = useState('');
+    const [capacity, setCapacity] = useState('');
+    const [rentperhour, setRentPerHour] = useState('');
     const [image, setImage] = useState(null);
     const [imagePreview, setImagePreview] = useState('');
 
-
     const navigate = useNavigate();
-
 
     const handleImageChange = (e) => {
         const file = e.target.files[0];
@@ -21,10 +20,8 @@ const Carregister = () => {
         setImagePreview(URL.createObjectURL(file));
     };
 
-
-    const handlesubmit = async (e) => {
+    const handleSubmit = async (e) => {
         e.preventDefault();
-
 
         const formData = new FormData();
         formData.append('name', name);
@@ -37,11 +34,8 @@ const Carregister = () => {
         }
 
         try {
-
             const response = await registercar(formData);
             if (response) {
-
-
                 navigate('/login');
             } else {
                 alert('Registration failed. Please try again.');
@@ -56,52 +50,61 @@ const Carregister = () => {
     };
 
     return (
-        <form onSubmit={handlesubmit}>
-            <div>
-                <label>Name:</label>
-                <input
-                    type="text"
-                    value={name}
-                    onChange={(e) => setname(e.target.value)}
-                />
-            </div>
-            <div>
-                <label>Fueltype:</label>
-                <input
-                    type="text"
-                    value={fueltype}
-                    onChange={(e) => setfueltype(e.target.value)}
-                />
-            </div>
-            <div>
-                <label>Capacity:</label>
-                <input
-                    type="number"
-                    value={capacity}
-                    onChange={(e) => setcapacity(e.target.value)}
-                />
-            </div>
-            <div>
-                <label>Rent per hour:</label>
-                <input
-                    type="number"
-                    value={rentperhour}
-                    onChange={(e) => setrentperhour(e.target.value)}
-                />
-            </div>
-            <div>
-                <label>Image:</label>
-                <input
-                    type="file"
-                    accept="image/*"
-                    onChange={handleImageChange}
-                />
-            </div>
-            {imagePreview && <div>
-                <img src={imagePreview} alt="Image Preview" style={{ width: '100px', height: '100px' }} />
-            </div>}
-            <button type="submit">Register</button>
-        </form>
+        <div className="register-container">
+            <h2>Car Registration</h2>
+            <form onSubmit={handleSubmit} className="register-form">
+                <div className="form-group">
+                    <label>Name:</label>
+                    <input
+                        type="text"
+                        value={name}
+                        onChange={(e) => setName(e.target.value)}
+                        required
+                    />
+                </div>
+                <div className="form-group">
+                    <label>Fuel Type:</label>
+                    <input
+                        type="text"
+                        value={fueltype}
+                        onChange={(e) => setFuelType(e.target.value)}
+                        required
+                    />
+                </div>
+                <div className="form-group">
+                    <label>Capacity:</label>
+                    <input
+                        type="number"
+                        value={capacity}
+                        onChange={(e) => setCapacity(e.target.value)}
+                        required
+                    />
+                </div>
+                <div className="form-group">
+                    <label>Rent per Hour:</label>
+                    <input
+                        type="number"
+                        value={rentperhour}
+                        onChange={(e) => setRentPerHour(e.target.value)}
+                        required
+                    />
+                </div>
+                <div className="form-group">
+                    <label>Image:</label>
+                    <input
+                        type="file"
+                        accept="image/*"
+                        onChange={handleImageChange}
+                    />
+                </div>
+                {imagePreview && (
+                    <div className="image-preview">
+                        <img src={imagePreview} alt="Preview" />
+                    </div>
+                )}
+                <button type="submit" className="submit-btn">Register</button>
+            </form>
+        </div>
     );
 };
 
